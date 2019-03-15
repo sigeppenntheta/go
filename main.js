@@ -1,4 +1,4 @@
-var endpoint = "https://www.jsonstore.io/55bf606550e91ad0dbed9258e523013e1781804795bd07db9d71ec05b3a04939"
+var endpoint = "https://www.jsonstore.io/ccaec202fd6805c5ddc0b5f17edaa9d316105ba8071f50954a67dd578e47120d"
 
 function getrandom() {
     var text = "";
